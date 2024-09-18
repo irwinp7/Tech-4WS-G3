@@ -6,7 +6,7 @@
 .bash_logout
 .bash_profile
 .bashrc
-.register.js
-.serverweb.html
-.style.css
-.viminfo
+register.js
+serverweb.html
+style.css
+viminfo
