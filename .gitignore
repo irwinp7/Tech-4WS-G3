@@ -1,0 +1,12 @@
+.cache/
+.local/
+.ssh/
+.vscode-server/
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.register.js
+.serverweb.html
+.style.css
+.viminfo
